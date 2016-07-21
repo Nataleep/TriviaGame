@@ -1,0 +1,25 @@
+body{
+
+font-family: 'Arima Madurai', cursive;
+background-image: url("http://freedesignfile.com/upload/2014/09/World-travelling-elements-creative-vector-set-05.jpg");
+padding top: 65px;
+padding-bottom: 40px;
+
+}
+
+h1 {
+	text-align: center;
+}
+
+#title {
+    text-decoration: underline;
+}
+
+#container {
+	width:60%;
+	background-color: #ffff99;
+	padding: 0 25px 550px 30px;
+	margin:auto;
+	margin-top:60px;
+	
+}
